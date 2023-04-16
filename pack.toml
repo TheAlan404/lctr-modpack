@@ -1,0 +1,13 @@
+name = "LCTR Creative"
+author = "TheAlan404"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "7611f531dab1428519ac7e84b40e67556e117e455be68439081a8316af50ea6d"
+
+[versions]
+minecraft = "1.19.4"
+quilt = "0.18.10"
