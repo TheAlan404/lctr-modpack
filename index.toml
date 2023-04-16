@@ -1,10 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = "README.md"
-hash = "58f92971f322e8dba79ed85f4e84a4f775fd18f5f4e15af7cf0cb3862858b56c"
-
-[[files]]
 file = "mods/3dskinlayers.pw.toml"
 hash = "2905b7be42ac9c7c52eb1a5511ae67ebbff435f0630e93ace70b02ef6097d3d9"
 metafile = true
