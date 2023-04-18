@@ -12,9 +12,9 @@ Prism Launcher kullanmanızı öneriyorum çünkü çok daha kolay ve daha otoma
 
 🔴 ***Premium hesabım yok/crack ->*** [Cracked Prism Launcher indir](https://github.com/Diegiwg/PrismLauncher-Cracked#downloads-mediafire)
 
-Aynı zamanda MC 1.19.4 için Java 18 gerekli.
+Aynı zamanda MC 1.19.4 için Java 17 gerekli.
 
-🟡 **Java 18 yok ise ->** [Java 18 indir](https://learn.microsoft.com/en-us/java/openjdk/download#openjdk-17)
+🟡 **Java 17 yok ise ->** [Java 17 indir](https://learn.microsoft.com/en-us/java/openjdk/download#openjdk-17)
 
 ### 2. Sonra?
 
