@@ -22,7 +22,7 @@ metafile = true
 
 [[files]]
 file = "mods/cloth-config.pw.toml"
-hash = "434bea6bc8c6b9abe951688847292ea5cf32a1d4b585e9e1d3f13f1dca58c3ff"
+hash = "156942df991662545265aae10fafa4b64bc1ba1226670be03916e58894671089"
 metafile = true
 
 [[files]]
@@ -152,7 +152,7 @@ metafile = true
 
 [[files]]
 file = "mods/qsl.pw.toml"
-hash = "cc38c8eca13f621ca4c22c8a9302d684f35c1498ce1c227e5947b30c8eeb37dc"
+hash = "d8a50a046548dc307d2bfe1a0a831bce32799cab74b7377cb9709e1e87191395"
 metafile = true
 
 [[files]]
@@ -163,6 +163,11 @@ metafile = true
 [[files]]
 file = "mods/screenshot-to-clipboard.pw.toml"
 hash = "672f3809a2053eef01aea4015ca4b0d4be6c507622172c091c17833b8d2ffb39"
+metafile = true
+
+[[files]]
+file = "mods/scroll-for-worldedit.pw.toml"
+hash = "c5a7782b300caaff9126d37997d16ea35e64a94d9ca529d5a86bf036c2f98db4"
 metafile = true
 
 [[files]]

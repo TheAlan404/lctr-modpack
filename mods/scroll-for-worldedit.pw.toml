@@ -1,0 +1,13 @@
+name = "Scroll for WorldEdit"
+filename = "scroll-for-worldedit-1.1.2.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/2Agd6VfX/versions/SqDLuwjG/scroll-for-worldedit-1.1.2.jar"
+hash-format = "sha1"
+hash = "2389773d54d2dac63a540f909891d9420875d562"
+
+[update]
+[update.modrinth]
+mod-id = "2Agd6VfX"
+version = "SqDLuwjG"
