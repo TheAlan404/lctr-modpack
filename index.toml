@@ -26,6 +26,11 @@ hash = "156942df991662545265aae10fafa4b64bc1ba1226670be03916e58894671089"
 metafile = true
 
 [[files]]
+file = "mods/command-macros.pw.toml"
+hash = "0fbcccdfd5a303ff8eb091c6d2bac13ba1453543af48f32eacb577642d88aa7c"
+metafile = true
+
+[[files]]
 file = "mods/cull-leaves.pw.toml"
 hash = "d5354443c301a1725444d4eb4b309165bd30103e92c59fb6f4d19472c8073e73"
 metafile = true
