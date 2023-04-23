@@ -51,14 +51,14 @@ Modpack'e herhangi bir güncelleme geldiğinde Prism Launcher sizin için otomat
 - ⭐ **WorldEditCUI** ile WorldEdit seçiminizi oyunda görebilirsiniz.
   - `P`'ye basıp bu özelliği kapatıp açabilirsiniz.
 
-! todo
+[screen-recorder-sun-apr-23-2023-14-43-39.webm](https://user-images.githubusercontent.com/43997085/233839584-28e279a9-f2ee-4c5d-b70d-bec6f9d2b6b6.webm)
 
 - ⭐ **Scroll For WorldEdit** sayesinde worldeditin bazı komutları çok daha kolay.
   - Komutu `R`'ye basılı tutup farelizin tekerleği ile seçin.
   - Aynı şekilde `alt`'a basılı tutup fareniz ile scroll yaparsanız komutu kullanmış olursunuz.
   - Bunları ayarlardan değiştirebilirsiniz (toggle yapılması, komut keybindları vb.)
 
-! todo
+[screen-recorder-sun-apr-23-2023-15-32-57.webm](https://user-images.githubusercontent.com/43997085/233840068-9f564221-a026-478d-a286-1cf03d280b94.webm)
 
 - ⭐ **Command Macros** ise WorldEdit'in aldığı 3. powerup.
   - ⭐ `alt + SolTık` => Seçimi siler (`//set 0`)
