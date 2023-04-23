@@ -1,6 +1,18 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/cmdkeybindconfig.json5"
+hash = "98ad11a9068f5ad08450a33f18ae07542eaa14eb7c3a211ed4d33e7893496080"
+
+[[files]]
+file = "config/scroll-for-worldedit.json5"
+hash = "edb2ef678983aca6a047df1882cecb862d1ad8a6c03921ee59edc8eb4526a208"
+
+[[files]]
+file = "config/worldeditcui.config.json"
+hash = "4b77e4c94578e69ecce192f4e21419baba6ec9d22b30da5440b0683966f8b815"
+
+[[files]]
 file = "mods/3dskinlayers.pw.toml"
 hash = "2905b7be42ac9c7c52eb1a5511ae67ebbff435f0630e93ace70b02ef6097d3d9"
 metafile = true
@@ -219,3 +231,11 @@ metafile = true
 file = "mods/yacl.pw.toml"
 hash = "b77bc86bc7b354a55ed610b76c65e1ec0f9b2246b29e4a52d8d40889c975f4df"
 metafile = true
+
+[[files]]
+file = "options.txt"
+hash = "63e886e845757940220c6452e2d57b66830ffc526c799211f12a4155350364b2"
+
+[[files]]
+file = "servers.dat"
+hash = "0f0d452a02eeae8f307fb92b4a9521c1367864c1491b165145cdd95c142e8165"

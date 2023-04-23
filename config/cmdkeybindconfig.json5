@@ -1,0 +1,89 @@
+{
+	"enabled": true,
+	// Keybinding to open the Macro editing screen
+	"openMacroScreenKeybind": "key.keyboard.unknown",
+	"macros": [
+		{
+			// Macro keybinding
+			"keyName": "key.mouse.right",
+			// Key modifier
+			"keyModName": "key.keyboard.left.alt",
+			// Command to execute
+			"command": "//set hand",
+			// Type of Macro. Delayed, Repeating, RunNTimes, SingleUse, DisplayOnly
+			"macroType": "SingleUse"
+		},
+		{
+			// Macro keybinding
+			"keyName": "key.mouse.left",
+			// Key modifier
+			"keyModName": "key.keyboard.left.alt",
+			// Command to execute
+			"command": "//set 0",
+			// Type of Macro. Delayed, Repeating, RunNTimes, SingleUse, DisplayOnly
+			"macroType": "SingleUse"
+		},
+		{
+			// Macro keybinding
+			"keyName": "key.keyboard.z",
+			// Key modifier
+			"keyModName": "key.keyboard.left.control",
+			// Command to execute
+			"command": "//undo",
+			// Type of Macro. Delayed, Repeating, RunNTimes, SingleUse, DisplayOnly
+			"macroType": "Repeating",
+			// Delay(Milliseconds) used for the Delayed/Repeating/RunNTimes macro.
+			"delay": 250
+		},
+		{
+			// Macro keybinding
+			"keyName": "key.keyboard.y",
+			// Key modifier
+			"keyModName": "key.keyboard.left.control",
+			// Command to execute
+			"command": "//redo",
+			// Type of Macro. Delayed, Repeating, RunNTimes, SingleUse, DisplayOnly
+			"macroType": "SingleUse",
+		},
+		{
+			// Macro keybinding
+			"keyName": "key.keyboard.c",
+			// Key modifier
+			"keyModName": "key.keyboard.left.control",
+			// Command to execute
+			"command": "//copy",
+			// Type of Macro. Delayed, Repeating, RunNTimes, SingleUse, DisplayOnly
+			"macroType": "SingleUse",
+		},
+		{
+			// Macro keybinding
+			"keyName": "key.keyboard.v",
+			// Key modifier
+			"keyModName": "key.keyboard.left.control",
+			// Command to execute
+			"command": "//paste",
+			// Type of Macro. Delayed, Repeating, RunNTimes, SingleUse, DisplayOnly
+			"macroType": "SingleUse",
+		},
+		{
+			// Macro keybinding
+			"keyName": "key.keyboard.right.shift",
+			// Key modifier
+			"keyModName": "key.keyboard.unknown",
+			// Command to execute
+			"command": "//wand",
+			// Type of Macro. Delayed, Repeating, RunNTimes, SingleUse, DisplayOnly
+			"macroType": "SingleUse"
+		},
+		{
+			// Macro keybinding
+			"keyName": "key.keyboard.keypad.0",
+			// Key modifier
+			"keyModName": "key.keyboard.unknown",
+			// Command to execute
+			"command": "/msg Prism ",
+			// Type of Macro. Delayed, Repeating, RunNTimes, SingleUse, DisplayOnly
+			"macroType": "DisplayOnly"
+		}
+	]
+}
