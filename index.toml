@@ -1,24 +1,36 @@
 hash-format = "sha256"
 
 [[files]]
-file = "config/yosbr/config/cmdkeybindconfig.json5"
+file = "config/defaultoptions/extra/config/cmdkeybindconfig.json5"
 hash = "98ad11a9068f5ad08450a33f18ae07542eaa14eb7c3a211ed4d33e7893496080"
 
 [[files]]
-file = "config/yosbr/config/scroll-for-worldedit.json5"
+file = "config/defaultoptions/extra/config/scroll-for-worldedit.json5"
 hash = "edb2ef678983aca6a047df1882cecb862d1ad8a6c03921ee59edc8eb4526a208"
 
 [[files]]
-file = "config/yosbr/config/worldeditcui.config.json"
+file = "config/defaultoptions/extra/config/simple-rpc/server-entries.toml"
+hash = "17b07ca5f6758448c4c2effbe9cb9f7b2b534c83b1287b5b751c3bbe4f74f2d0"
+
+[[files]]
+file = "config/defaultoptions/extra/config/simple-rpc/simple-rpc.toml"
+hash = "f2f6e9b4a7d2a09c0c437fba05e05186366fc66ef36818e0465ae8fb666927be"
+
+[[files]]
+file = "config/defaultoptions/extra/config/worldeditcui.config.json"
 hash = "4b77e4c94578e69ecce192f4e21419baba6ec9d22b30da5440b0683966f8b815"
 
 [[files]]
-file = "config/yosbr/options.txt"
-hash = "50e5c32d69667f7d894cef8748ec05f7d52627c102dcff191db11656feca5240"
+file = "config/defaultoptions/keybindings.txt"
+hash = "dfa4e5226cf56fc02bd265fb81990500c62a21dd3fc4cdef642a3ca008053b71"
 
 [[files]]
-file = "config/yosbr/servers.dat"
-hash = "0f0d452a02eeae8f307fb92b4a9521c1367864c1491b165145cdd95c142e8165"
+file = "config/defaultoptions/options.txt"
+hash = "98b24671dafaaabf1f423d8643b773fe6dc29458b850afc8eab33fa588c88d7d"
+
+[[files]]
+file = "config/defaultoptions/servers.dat"
+hash = "1e812904813b137f8555712e007dd805f907631ff4bd140ade2e61f627d5e1a1"
 
 [[files]]
 file = "mods/3dskinlayers.pw.toml"
