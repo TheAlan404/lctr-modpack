@@ -51,11 +51,6 @@ hash = "83d8a8865dfe81276fabc0c7085106a760608c0a3d569716fc77b3d0cb4d4c0d"
 metafile = true
 
 [[files]]
-file = "mods/chatpatches.pw.toml"
-hash = "e539e67538001d04961952982cd40e4ab412b04684542fee122397f893280c7e"
-metafile = true
-
-[[files]]
 file = "mods/cloth-config.pw.toml"
 hash = "156942df991662545265aae10fafa4b64bc1ba1226670be03916e58894671089"
 metafile = true
@@ -198,6 +193,11 @@ metafile = true
 [[files]]
 file = "mods/modmenu.pw.toml"
 hash = "ac519bc5639f80a7a150e1748638bdd283374f97f876cfd380bd3dd7cd9019c7"
+metafile = true
+
+[[files]]
+file = "mods/morechathistory.pw.toml"
+hash = "d1558ff187abe468110fef11eee834aa3c03df732e706ac16e221425b538da4d"
 metafile = true
 
 [[files]]
