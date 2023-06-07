@@ -133,11 +133,6 @@ hash = "ccdb16fd2564c82cbb0db92b3963c772928bc2dfd6ed693313416e66f4ffd6ca"
 metafile = true
 
 [[files]]
-file = "mods/fastload.pw.toml"
-hash = "43c1e9c4afedd29ee2b0107aefa662b889b99eaba914a43c7244872abfd75c10"
-metafile = true
-
-[[files]]
 file = "mods/ferrite-core.pw.toml"
 hash = "c2814d761fc227d78759c88c38b37b3985fe4a36d18520a333965a1a9a601c2d"
 metafile = true
@@ -185,11 +180,6 @@ metafile = true
 [[files]]
 file = "mods/malilib.pw.toml"
 hash = "808d9c0a6ccd0259bdd4fbb7d154a7257fccb63a9c0df95054a811ceea614ba5"
-metafile = true
-
-[[files]]
-file = "mods/memoryleakfix.pw.toml"
-hash = "4ce761e594c255a802bd4b0b4b6312e740130b17d77764c389cef4c8417ae8af"
 metafile = true
 
 [[files]]
@@ -258,11 +248,6 @@ hash = "c5a7782b300caaff9126d37997d16ea35e64a94d9ca529d5a86bf036c2f98db4"
 metafile = true
 
 [[files]]
-file = "mods/smoothboot-fabric.pw.toml"
-hash = "82312494cc4cb1b914968097ff27733905e6af5dec5829cdbdbc86e5c05b421e"
-metafile = true
-
-[[files]]
 file = "mods/sodium-extra.pw.toml"
 hash = "637533a15bb4eb5aaaab5a8fdc352214732202def3beedcd91a4e4e614a74f2a"
 metafile = true
@@ -290,11 +275,6 @@ metafile = true
 [[files]]
 file = "mods/tooltipfix.pw.toml"
 hash = "76262ae83e45259425577a35d7ce8c8d65fa3afe67ab16deaac6cbc67efe494e"
-metafile = true
-
-[[files]]
-file = "mods/vmp-fabric.pw.toml"
-hash = "3fd9f7e41a7543c4a5c03f7a73ef2055a091ca35857d574c6d8e430d100b5518"
 metafile = true
 
 [[files]]
