@@ -1,4 +1,4 @@
-# 📦 LCTR Creative Modpack 🍂
+# 📦 Tea Modpack 🍂
 
 1.19.4 sürümlü bu modpack performans ve daha kaliteli bir oyun verir.
 
